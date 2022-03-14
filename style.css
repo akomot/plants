@@ -1,0 +1,98 @@
+.top-title {
+    background-image: url("https://cdn.glitch.global/55174e67-fd62-4980-89c1-746dc4361d75/photo-1418065460487-3e41a6c84dc5.webp?v=1647086028112");
+    background-size: cover;
+    height: 350px;
+    padding: 100px 600px 100px 10px;
+    color: white;
+  }
+  
+  .top-class {
+    background-color: rgb(34,134,34,0.45);
+    padding: 50px 50px 50px 0;
+  }
+  
+  li {
+    list-style: none;
+    padding: 5px 70px;
+    justify-content: center;
+  }
+  ul {
+    display: flex;
+    justify-content: center;
+  }
+  ol {
+    padding: 2px 2px;
+  }
+  img {
+    padding: 10px 50px;
+  }
+  p {
+    display: flex;
+    width: auto;
+    padding: 1px 50px;
+    font-size: 30px;
+  }
+  .header {
+    font-size: 20px;
+  }
+  .heading {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(0, 128,128);
+  }
+  .contents {
+    background-color: #fffafa;
+    height: 100%;
+    font-size: 25px;
+    justify-content: center;
+    padding: 10px;
+  }
+  .text {
+    padding: 10px 80px;
+  }
+  .toc {
+    display: flex;
+    background-color: #fffafa;
+  }
+  .item {
+    color: rgb(255, 255, 255);
+    padding: 2px 25px;
+    font-size: 20px;
+    display: flex;
+  }
+  .title1 {
+    font-size: 30px;
+    background-color: #fffafa;
+    padding: 5px;
+  }
+  .credits {
+    font-size: 20px;
+    color: rgb(22, 22, 22);
+    padding: 5px 15px;
+  }
+  h1 {
+    font-size: 44px;
+    color: white;
+    padding: 20px;
+  }
+  h2 {
+    font-size: 33px;
+    color: rgb(46, 46, 46);
+    display: flex;
+    justify-content: center;
+  }
+  h3 {
+    font-size: 30px;
+    color: rgb(46, 46, 46);
+    display: flex;
+    justify-content: left;
+    padding: 1px 20px;
+  }
+  h4 {
+    padding: 1px 25px;
+  }
+  footer {
+    background-color: #9b8675;
+    padding: 5px 15px;
+  }
+  
